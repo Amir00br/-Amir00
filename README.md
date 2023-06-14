@@ -7,9 +7,7 @@ Back-end Developer
 
 
 
-<a href="https://github.com/Amir00br/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Amir00br&layout=compact&theme=dark" />
-</a>
+
 <br>
  <h2>Skills</h2>
  <p>
