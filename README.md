@@ -2,7 +2,7 @@
 <h1 align="center">
   Hi there, I'm Amiir00👋</h1>
 <p align="center">
-Front-end Developer
+Back-end Developer
 </p>
 
 
