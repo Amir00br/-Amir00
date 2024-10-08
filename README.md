@@ -28,10 +28,8 @@ title="C++"/>
                   
 <p align="left">
 <a href="https://instagram.com/_amir__baram_?igshid=NTc4MTIwNjQ2YQ==" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://instagram.com/infiniity_group?igshid=NTc4MTIwNjQ2YQ==" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/Amir00br" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   <a href="https://twitter.com/AmrBrm?t=qTGIcOY1r94esdZ2OETZqw&s=09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/amir-baramzadeh-84a43327b/?trk=public-profile-join-page" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="http://infiniity.ir/" target="_blank" rel="noreferrer"><img src="https://github.com/Amir00br/Amir00br/blob/main/Infinity.png?raw=true" width="35" height="35" /></a>
   </p>
 <br>
